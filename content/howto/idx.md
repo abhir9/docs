@@ -5,7 +5,6 @@ summary: "An Overview about Identity Experience Framework"
 ---
 
 **IDX (Identity Experience Framework)** is a ready-to-use web page available on a dedicated instance in LoginRadius. It is a set of registration, login, and related web pages such as forgot password, profile.
-
 All the available actions such as Login, Registration, Forgot password, Profile page, logout with the Identity Experience Framework page, can be utilized as per your needs.
 
 Below is a list of the available actions with the LoginRadius Identity Experience Framework Page:
@@ -41,4 +40,4 @@ https://<LoginRadius APP Name>hub.loginradius.com/auth.aspx?action=logout&return
 ```
 
 
-> **Note**: Replace `<LoginRadius APP Name>` with The LoginRadius APP Name that you can find on [Setup your Dashboard](https://www.loginradius.com/docs/developer/howto/dashboard-setup/) page and the `<Return URL>` with the locations you would like to direct customers after completing the action.
+> **Note**: Replace <LoginRadius APP Name> with The LoginRadius APP Name that you can find on [Setup your Dashboard](https://www.loginradius.com/docs/developer/howto/dashboard-setup/) page and the <Return URL> with the locations you would like to direct customers after completing the action.
