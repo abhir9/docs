@@ -61,6 +61,7 @@ module.exports = {
             "faq/supported-browsers",
           ],
         },
+        githubRepo: 'LoginRadius/docs',
       },
     },
     {
