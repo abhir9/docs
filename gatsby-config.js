@@ -51,8 +51,7 @@ module.exports = {
             "howto/email-templates",
             "howto/social-login",
             "howto/authentication-theme",
-            "howto/work-with-sott",
-            //"howto/implement-captcha",
+            "howto/work-with-sott"
           ],
           Concepts: ["concepts/idx-overview"],
           FAQ: [
