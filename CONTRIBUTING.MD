@@ -1,6 +1,6 @@
 # Contributing
 
-[Loginradius Developer Docs](https://www.loginradius.com/docs/developer) is [MIT](LICENSE) licensed and accepts contributions via GitHub pull requests. This document outlines some of the conventions on development workflow, commit message formatting, contact points and other resources to make it easier to get your contribution accepted.
+[Loginradius Developer Blog](https://www.loginradius.com/docs/developer) is [MIT](LICENSE) licensed and accepts contributions via GitHub pull requests. This document outlines some of the conventions on development workflow, commit message formatting, contact points and other resources to make it easier to get your contribution accepted.
 
 ## Getting Started
 
@@ -21,12 +21,9 @@
 Please follow the below format while writing commit messages
 
 ```
-  title: Title of the document
-  tags: [<Related comma separated tags>]
+  title: One line description about your change
+  <Blank Line>
   description: An optional description of your changes.
-  path: "Path of the document under content folder"
 ```
-
-
 
 Thanks for your contributions!
